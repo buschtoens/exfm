@@ -1,0 +1,17 @@
+{
+  "name": "exfm",
+  "description": "Flexible redirection plugin",
+  "version": "1.0.0",
+  "author": "Jan Buschtöns <buschtoens@gmail.com>",
+  "contributors": [ 
+    { "name": "Jan Buschtöns", "email": "buschtoens@gmail.com", "url": "https://github.com/silvinci" }
+  ],
+  "license": "MIT",
+  "keywords": ["exfm", "api", "stream", "music"],
+  "repository": "git://github.com/silvinci/exfm",
+  "main": "index",
+  "engines": { "node": "*" },
+  "scripts": { "prepublish": "npm prune", "test": "mocha -R spec -r should" },
+  "dependencies": { "qs": "*", "request": "*" },
+  "devDependencies": { "mocha": "~1.7.3", "should": "~1.2.1" }
+}
