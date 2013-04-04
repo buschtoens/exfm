@@ -107,6 +107,8 @@ exfm.user("dan").notifications(function(err, msgs) {
   console.log(msgs); // [...]
 });
 ```
+## Contributors
+- [drewbharris](https://github.com/drewbharris)
 
 ## License
 (The MIT License)
