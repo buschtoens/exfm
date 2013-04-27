@@ -1,6 +1,6 @@
 {
   "name": "exfm",
-  "description": "Flexible redirection plugin",
+  "description": "Connect to the ex.fm API, get information and stream music",
   "version": "1.0.3",
   "author": "Jan Buschtöns <buschtoens@gmail.com>",
   "contributors": [ 
